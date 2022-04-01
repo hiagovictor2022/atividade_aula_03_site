@@ -136,3 +136,23 @@ body{
     text-decoration: none;
     color: #e6005a;
  }
+
+ 
+.footer{
+    background-color: #32b9cd;
+    height: 130px;
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.footer .container{
+    display: flex;
+    justify-content: center;
+}
+
+.footer h4{
+    margin: 0;
+    padding: 0;
+}
